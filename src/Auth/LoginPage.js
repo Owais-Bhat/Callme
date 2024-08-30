@@ -19,7 +19,7 @@ const LoginPage = () => {
 
   // Define allowed credentials
   const allowedCredentials = [
-    { email: "awais@gmail.com", password: "awais1" },
+    { email: "owais@gmail.com", password: "Awais1" },
     { email: "user@example.com", password: "user123" },
   ];
 
